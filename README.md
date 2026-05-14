@@ -1,2 +1,0 @@
-# Portafolio-de-CS
-C#
